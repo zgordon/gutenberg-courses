@@ -2,16 +2,15 @@
 
 Used for [https://gutenberg.courses/](https://gutenberg.courses/) site listing courses on how to use and build with blocks in WordPress.
 
+The intention behind the style is not to give a completely accurate representation of the block editor, rather just enough to make it obvious or familiar.
 
 ## Note on Use
 
-Feel free to use these assets if you like, I just ask that you do not use the exacts with the *exact* same design and text as the examples below since those are marketing graphics specifically for our courses.
+Feel free to use these assets if you like, I just ask that you do not use the assets with the *exact* same design and text as the examples below since those are marketing graphics for our courses.
 
-However, go crazy with the assets and I'd be happy to merge PRs with any improvements folks make :)
+However, go crazy with the assets and customize for your own use :) I'd be happy to merge PRs with any improvements folks make.
 
-The intention behind the style is not to give a completely accurate representation of the block editor, rather just enough to make it obvious or familiar.
-
-CREDIT: All the custom icons come from the [Noun Project](https://thenounproject.com/apps/) I suggest the desktop app and an account if you're into that sort of thing.
+CREDIT: All the custom icons come from the [Noun Project](https://thenounproject.com/apps/). I suggest the desktop app and an account if you're into that sort of thing.
 
 ## Examples of Assets in Action for [Gutenberg.Courses](https://gutenberg.courses/)
 
