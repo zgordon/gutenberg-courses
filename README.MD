@@ -2,6 +2,9 @@
 
 Used for [https://gutenberg.courses/](https://gutenberg.courses/) site listing courses on how to use and build with blocks in WordPress.
 
+
+## Note on Use
+
 Feel free to use these assets if you like, I just ask that you do not use the exacts with the *exact* same design and text as the examples below since those are marketing graphics specifically for our courses.
 
 However, go crazy with the assets and I'd be happy to merge PRs with any improvements folks make :)
