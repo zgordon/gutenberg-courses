@@ -10,7 +10,7 @@ The intention behind the style is not to give a completely accurate representati
 
 CREDIT: All the custom icons come from the [Noun Project](https://thenounproject.com/apps/) I suggest the desktop app and an account if you're into that sort of thing.
 
-## Examples of Assets in Action for Gutenberg.Courses
+## Examples of Assets in Action for [Gutenberg.Courses](https://gutenberg.courses/)
 
 ![Learn the Gutenberg Editor](https://github.com/zgordon/gutenberg-courses/raw/master/Gutenberg%20Courses.png)
 ![Gutenberg for Freelancers](https://github.com/zgordon/gutenberg-courses/raw/master/Course%20-%20Gutenberg%20for%20Freelancers.png)
